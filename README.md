@@ -1,4 +1,4 @@
-# Algoritmos e Estruturas de Dados - Pesquisa :dragon:
+# Algoritmos e Estruturas de Dados - Pesquisa :computer:
 Desafio lançado pelo professor onde foi levantado o desempenho e a análise dos algoritmos de **pesquisa sequencial e binária, árvore binária e tabela hash**.
 
 ## Arquivos :books:
